@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello World", "Hello World\Hello World.csproj", "{82968BF5-7F0A-4338-A5E1-4B247EF3AE40}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld.Web", "Hello World\HelloWorld.Web.csproj", "{82968BF5-7F0A-4338-A5E1-4B247EF3AE40}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello World.Tests", "Hello World.Tests\Hello World.Tests.csproj", "{663C049D-041E-4548-8A01-ADF66FD1B359}"
 EndProject
