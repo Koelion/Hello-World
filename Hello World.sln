@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello World.Tests", "Hello 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Migrations", "Migrations\Migrations.csproj", "{D8071FDB-8008-445C-8027-30A7D20BC448}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld.Core", "HelloWorld.Core\HelloWorld.Core.csproj", "{FC027856-D0F6-411D-A0B8-794151E09BF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{B1AC0E87-CD70-437B-9B04-BDA711FAE1E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{D8071FDB-8008-445C-8027-30A7D20BC448}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8071FDB-8008-445C-8027-30A7D20BC448}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8071FDB-8008-445C-8027-30A7D20BC448}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC027856-D0F6-411D-A0B8-794151E09BF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC027856-D0F6-411D-A0B8-794151E09BF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC027856-D0F6-411D-A0B8-794151E09BF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC027856-D0F6-411D-A0B8-794151E09BF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1AC0E87-CD70-437B-9B04-BDA711FAE1E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1AC0E87-CD70-437B-9B04-BDA711FAE1E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1AC0E87-CD70-437B-9B04-BDA711FAE1E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1AC0E87-CD70-437B-9B04-BDA711FAE1E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
