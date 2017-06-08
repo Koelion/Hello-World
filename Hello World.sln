@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello World", "Hello World\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello World.Tests", "Hello World.Tests\Hello World.Tests.csproj", "{663C049D-041E-4548-8A01-ADF66FD1B359}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Migrations", "Migrations\Migrations.csproj", "{D8071FDB-8008-445C-8027-30A7D20BC448}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{663C049D-041E-4548-8A01-ADF66FD1B359}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{663C049D-041E-4548-8A01-ADF66FD1B359}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{663C049D-041E-4548-8A01-ADF66FD1B359}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8071FDB-8008-445C-8027-30A7D20BC448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8071FDB-8008-445C-8027-30A7D20BC448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8071FDB-8008-445C-8027-30A7D20BC448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8071FDB-8008-445C-8027-30A7D20BC448}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
